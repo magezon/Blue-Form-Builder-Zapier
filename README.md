@@ -4,7 +4,7 @@
 <br/><br/>
 <table>
   <td width="30%" valign="top"style="border: none; ">
-    <br><a href="https://www.blueformbuilder.com/blue-form-builder-zapier.html"><img src="https://www.blueformbuilder.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/b/l/blueformbuilder-zapier.png" alt="Zapier plugin" aria-labelledby="labelledby1538122092486" class="fotorama__img" aria-hidden="false">/><p>
+    <br><a href="https://www.blueformbuilder.com/blue-form-builder-zapier.html"><img src="https://www.blueformbuilder.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/b/l/blueformbuilder-zapier.png" alt="Zapier plugin" aria-labelledby="labelledby1538122092486" class="fotorama__img" aria-hidden="false"/><p>
       <td style="border:none;"></br>
         <div class="product attribute overview">
           <div class="valune">
